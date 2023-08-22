@@ -1,0 +1,11 @@
+{
+  "name": "conexao-simples-node-com-postgree",
+  "version": "1.0.0",
+  "description": "LINKs PRA CONECTAR COM POSTGREE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
